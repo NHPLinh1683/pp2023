@@ -75,7 +75,7 @@ def main():
             print("bye!")
             break
 
-# i dont know what this for but this cannot run without these
+# i dont know what this for but the file cannot run without these
 if __name__ == "__main__": 
     main()
 
